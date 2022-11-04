@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Rajashekar V.T</h1>
 <h3 align="center">A Passionate Full Stack Machine Learning Engineer From India</h3>
-<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajashekarvt&label=Profile%20views&color=0e75b6&style=flat" alt="rajashekarvt" /> </p>
 
 - 🌱 I’m currently learning **PyTorch,Flask,kubernetes,Docker.**
