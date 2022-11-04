@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **PyTorch,Flask,kubernetes,Docker.**
 
-- 💬 Ask me about **Tensorflow,NLP,**
+- 💬 Ask me about **Anything Data Science And AI**
 
 - 📫 How to reach me **rajashekarvt58@gmail.com**
 
