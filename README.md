@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <img align='right' alt='coding' width=400 src='https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47cuxwmdc9wqqy1400iz2jdqo0dho4ayib8q9qcieo&rid=giphy.gif&ct=g'>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajashekarvt&label=Profile%20views&color=0e75b6&style=flat" alt="rajashekarvt" /> </p>
 
-- 🌱 I’m currently learning **PyTorch,Flask,kubernetes,Docker.**
+- 🌱 I’m currently learning **PyTorch,AWS,Docker.**
 
 - 💬 Ask me about **Anything Data Science And AI**
 
