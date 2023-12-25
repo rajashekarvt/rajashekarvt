@@ -19,15 +19,15 @@ Here are some ideas to get you started:
 <img align='right' alt='coding' width=400 src='https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47cuxwmdc9wqqy1400iz2jdqo0dho4ayib8q9qcieo&rid=giphy.gif&ct=g'>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajashekarvt&label=Profile%20views&color=0e75b6&style=flat" alt="rajashekarvt" /> </p>
 
-- 🌱 I’m currently learning **PyTorch,AWS,Docker.**
+- 🌱 I’m currently Working Extensively with  **PyTorch, AWS, Docker and OpenAI**
 
 - 💬 Ask me about **Anything Data Science And AI**
 
 - 📫 How to reach me **rajashekarvt58@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1KNp9IqEybF07Gq5bmTTX4ZRCqjRACB_i/view?usp=sharing](https://drive.google.com/file/d/1KNp9IqEybF07Gq5bmTTX4ZRCqjRACB_i/view?usp=sharing)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1Gw6V808uvpMNKP3bCJSZkNpVkmkB7Cah/edit?usp=sharing&ouid=115344481061859067576&rtpof=true&sd=true](https://docs.google.com/document/d/1Gw6V808uvpMNKP3bCJSZkNpVkmkB7Cah/edit?usp=sharing&ouid=115344481061859067576&rtpof=true&sd=true)
 
-- ⚡ Fun fact **I am very good at FPS Games.**
+- ⚡ Fun fact **I am very good at FPS Games and writing blogs.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
